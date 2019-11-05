@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"github.com/Jeffail/gabs"
 	"gopkg.in/gavv/httpexpect.v2"
-	lhrHttpExpect "lhr/foundation/expect/httpexpect"
+	lhrHttpExpect "github.com/coolligang/foundation/expect/httpexpect"
 	"net/url"
 	"strings"
 	"testing"

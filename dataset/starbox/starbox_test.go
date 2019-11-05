@@ -1,7 +1,7 @@
 package starbox
 
 import (
-	"lhr/foundation/definitions"
+	"github.com/coolligang/foundation/definitions"
 	"os"
 	"testing"
 )

@@ -1,6 +1,7 @@
 package httpexpect
 
 import (
+//	"github.com/gavv/httpexpect"
 	"gopkg.in/gavv/httpexpect.v2"
 	"net/http"
 	"testing"

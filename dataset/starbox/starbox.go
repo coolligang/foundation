@@ -1,7 +1,7 @@
 package starbox
 
 import (
-	"lhr/foundation/dataset/starbox/api"
+	"github.com/coolligang/foundation/dataset/starbox/api"
 )
 
 func NewStarBox(path string) *StarBox {

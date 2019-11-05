@@ -2,7 +2,7 @@ package starbox
 import (
 	"archive/zip"
 	"io"
-	"lhr/foundation/definitions"
+	"github.com/coolligang/foundation/definitions"
 	"net/http"
 	"os"
 	"path/filepath"

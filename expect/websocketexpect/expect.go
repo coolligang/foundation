@@ -2,8 +2,8 @@ package websocketexpect
 
 import (
 	"errors"
+	"github.com/gavv/httpexpect"
 	"github.com/gorilla/websocket"
-	"gopkg.in/gavv/httpexpect.v2"
 	"net/http"
 	"testing"
 	"time"
